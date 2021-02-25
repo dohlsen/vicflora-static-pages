@@ -264,10 +264,6 @@ This character refers to the appearance of the leaf or leaf-like structure when 
 
   In this state the leaf is cylindric so that a circular shape is left in the leaf by a cross-section through the leaf. Alternatively the margins of the leaf curl so that a cylinder with an internal cavity is formed. 
 
-* #### Four-sided
-
-  In this state a square or rectangular shape is left by a cross-section through the leaf which is distinctly angled. 
-
 * #### Three-sided
 
   In this state a triangular shape is left by a cross-section through the leaf which is distinctly angled. 

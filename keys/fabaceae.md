@@ -84,10 +84,6 @@ This character refers to whether there are structures present that are stiff and
 
   In this state the plant has no structures that are stiff and pointed that could cause discomfort if pressed.
 
-## Stem
-
-A set of two characters that refer to the axes that can give rise to young leaves.
-
 ### Branchlet cross-section (young branchlets)
 
 This character refers to the shape left in the small axes that may bear new leaves (branchlets) when looking down on a horizontal cut through the branchlets.

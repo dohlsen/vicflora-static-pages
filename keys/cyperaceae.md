@@ -164,7 +164,7 @@ The length in mm of the minute leaf-like scale protecting the flowers. In Carex,
 
 This is the number of arms that the style or elongated female part of the flower that emerges from the top of the ovary divides into near its apex.
 
-### Style arm number
+### Stamen number
 
 This is the number of male parts of the flower. The stamen comprises an anther which is typically an elongated oblong structure that is often yellow or white and is attached to the flower by a much more slender filament. Young flowers are best to use to address this character as stamens detach in older flowers.
 

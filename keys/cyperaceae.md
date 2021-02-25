@@ -192,10 +192,10 @@ The number of structures, either scales or bristles, attached at the base of an 
 
 The product of the fertilized ovary in Cyperaceae is a nut or in Carex the nut is enclosed within a bottle-shaped bract, the whole structure referred to as a utricle. The following two characters refer to these structures.
 
-### Length mm
-
-The length in mm from the base of the nut or utricle to its tip.
-
 ### Colour
 
 The colour of the outside of the nut or utricle.
+
+### Length mm
+
+The length in mm from the base of the nut or utricle to its tip.

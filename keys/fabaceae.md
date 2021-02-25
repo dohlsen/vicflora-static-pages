@@ -116,11 +116,11 @@ This character refers to the shape left in the small axes that may bear new leav
 
 This character refers to whether the young axes (branchlets) that may bear leaves have hairs or not.
 
-* #### Glabrous
+* #### Branchlet glabrous
 
   In this state the young axes (branchlets) are devoid of hairs.
   
-* #### Hairy
+* #### Branchlet hairy
 
  In this state the young axes (branchlets) have hairs. If branchlets are sparsely hairy or have an occasional small hair choose this state.
  
@@ -200,11 +200,11 @@ This character refers to the degree of division of the leaves or phyllodes. In t
 
 This character refers to whether the leaf ends in a thread-like appendage that twines around structures to aid climbing.
 
-* #### Present
+* #### Leaf tendrils present
 
   In this state the leaf ends in a thread-like appendage that twines around structures to aid climbing. 
 
-* #### Absent
+* #### Leaf tendrils absent
 
   In this state the leaf does not end in a thread-like appendage that twines around structures to aid climbing.
   
@@ -344,19 +344,19 @@ This character refers to whether the edges (margins) of leaves or leaflets lie i
 
 This character refers to the form of the tip of the leaf or leaflet furthest away from its attachment. This character does not apply to species without leaves or leaves that have been reduced to scales.
 
-* #### Acute, acuminate or acicular
+* #### Apex acute, acuminate or acicular
 
   In this state the tip of the leaf or leaflet comes to a fine point that forms an interior angle less than 90 degrees.
 
-* #### Obtuse or rounded
+* #### Apex obtuse or rounded
 
   In this state the tip of the leaf or leaflet is round or comes to a point that forms an interior angle greater than 90 degrees.
 
-* #### Bilobed, emarginate or retuse
+* #### Apex bilobed, emarginate or retuse
 
   In this state there are two points and a cleft between these points at the end of the leaf or leaflet opposite to its attachment.
 
-* #### Truncate
+* #### Apex truncate
 
  In this state the end of the leaf or leaflet opposite to its attachment is abruptly formed with a somewhat straight edge that forms at 90 degrees to its midvein.
 
@@ -364,19 +364,19 @@ This character refers to the form of the tip of the leaf or leaflet furthest awa
 
 This character refers to the shape of the base of the leaf or leaflet near the stalk attachment. This character does not apply to species without leaves or leaves that have been reduced to scales.
 
-* #### Cordate
+* #### Base cordate
 
   In this state the leaf or leaflet stalk attaches to the blade in a cleft between two lobes that continue down below the stalk attachment point.
 
-* #### Attenuate to cuneate
+* #### Base attenuate to cuneate
 
   In this state the base of the leaf or leaflet is v-shaped with the leaf or leaflet stalk attaching to the point of the ‘v’.
 
-* #### Obtuse or rounded
+* #### Base obtuse or rounded
 
   In this state the base of the leaf is broadly wedge-shaped (the wedge point forming an interior angle greater than 90 degrees) or the edge curves towards the stalk attachment point.
 
-* #### Truncate
+* #### Base truncate
 
   In this state the base of the leaf or leaflet is abruptly formed by a straight edge that forms at 90 degrees to its midvein and leaf stalk (petiole).
 
@@ -384,11 +384,11 @@ This character refers to the shape of the base of the leaf or leaflet near the s
 
 This character refers to whether there are hairs on the face of the leaf or leaflet facing upwards. This character does not apply to species without leaves or leaves that have been reduced to scales.
 
-* #### Glabrous
+* #### Upper leaf surface glabrous
 
   In this state the face of the leaf or leaflet facing upwards is completely devoid of hairs.
 
-* #### Hairy
+* #### Upper leaf surface hairy
 
   In this state the face of the leaf or leaflet facing upwards has hairs. If the upper face is sparsely hairy or has the occasional small hair select this state.
 
@@ -396,11 +396,11 @@ This character refers to whether there are hairs on the face of the leaf or leaf
 
 This character refers to whether there are hairs on the face of the leaf or leaflet facing downwards. This character does not apply to species without leaves or leaves that have been reduced to scales.
 
-* #### Glabrous
+* #### Lower leaf surface glabrous
 
   In this state the face of the leaf or leaflet facing downwards is completely devoid of hairs.
 
-* #### Hairy
+* #### Lower leaf surface hairy
 
   In this state the face of the leaf or leaflet facing downwards has hairs. If the lower face is sparsely hairy or has the occasional small hair select this state.
 
@@ -444,11 +444,11 @@ This is the length in mm of the flat expanded part of a leaflet from its attachm
 
 This character refers to whether there are small appendages at the bases of leaflets in compound leaves. This character does not apply to species with simple leaves or without leaves.
 
-* #### Present
+* #### Stipellae present
 
   In this state there are small appendages at the bases of leaflets.
 
-* #### Absent
+* #### Stipellae absent
 
   In this state there are no small appendages at the bases of leaflets.
 
@@ -456,11 +456,11 @@ This character refers to whether there are small appendages at the bases of leaf
 
 This character refers to whether there is a stalk that attaches the main photosynthetic part of the leaf or leaflet (blade or lamina) to a stem or branchlet.
 
-* #### Present
+* #### Petiole present
 
   In this state the leaf or leaflet is attached to a stem or branchlet by a stalk. 
 
-* #### Absent
+* #### Petiole absent
 
   In this state the main photosynthetic part of the leaf or leaflet (blade or lamina) is directly attached to a stem or branchlet.
   
@@ -508,15 +508,15 @@ A set of 15 characters related to the flower, its parts or structures associated
 
 This character refers to the presence and persistence of brown or green leaf or scale-like structures below the flowers.
 
-* #### Present and persistent
+* #### Bracts present and persistent
 
   In this state brown or green leaf or scale-like structures (bracts) below the flower are present and persist throughout the lifespan of the flower.
 
-* #### Present but caducous
+* #### Bracts present but caducous
 
   In this state brown or green leaf or scale-like structures (bracts) below the flower are present but fall off the plant during development of the flower.
   
-* #### Apparently absent
+* #### Bracts apparently absent
 
   In this state brown or green leaf or scale-like structures (bracts) below the flower are never visible.
   
@@ -544,11 +544,11 @@ This character refers to where flowers or clusters of flowers (inflorescences) a
 
 This character refers to whether flowers have stalks or not.
 
-* #### Present
+* #### Pedicel present
 
   In this state the flower has a stalk. This may be very short.
   
-* #### Absent
+* #### Pedicel absent
 
   In this state the flower sits directly on a stem of inflorescence axis (rachis) and has no stalk.
   
@@ -556,11 +556,11 @@ This character refers to whether flowers have stalks or not.
 
 This character refers to whether there are hairs on the sepals. The sepals can be distinguished from bracts and bracteoles by comprising five lobes and being the last whorl of structures before the petals.
 
-* #### Glabrous
+* #### Calyx glabrous
 
   In this state the sepals are completely devoid of hair.
 
-* #### Hairy
+* #### Calyx hairy
 
   In this state the sepals have some hairs. If the calyx is sparsely hairy or only occasional small hairs are seen, select this state.
 
@@ -600,15 +600,15 @@ This character refers to how sharp the tip of each of the five lobes are.
 
 This character refers to the presence and persistence of two small brown or green structures (bracteoles) below or on the calyx but above the bracts.
 
-* #### Present and persistent
+* #### Bracteoles present and persistent
 
   In this state two small brown or green structures (bracteoles) are present below or on the calyx but above the bracts and persist throughout the lifespan of the flower.
   
-* #### Present but caducous
+* #### Bracteoles present but caducous
 
   In this state two small brown or green structures (bracteoles) are present below or on the calyx but above the bracts but fall off during the development of the flower.
   
-* #### Entirely absent
+* #### Bracteoles entirely absent
 
   In this state two small brown or green structures (bracteoles) are never present below or on the calyx but above the bracts. Distinguishing between bracteoles being entirely absent or caducous requires comparison of flowers that are in different times of development (e.g. in bud when caducous bracts may still be present and when flowers are open and full size when the may have fallen off). 
   
@@ -700,47 +700,47 @@ A set of 10 characters associated with the fruit and seeds.
 
 This character refers to outline shape of the fruit wall.
 
-* #### Linear
+* #### Pod linear
 
   This shape is much longer than wide with sides that are more or less parallel or curved and equidistant for most of their length.
 
-* #### Oblong
+* #### Pod oblong
 
   This shape has a similar width to length or is up to a few times longer than wide and the sides are more or less parallel for most of their length.
   
-* #### Elliptic
+* #### Pod elliptic
 
   This shape is an ellipse or oval.
 
-* #### Circular
+* #### Pod circular
 
   This shape resembles a circle.
   
-* #### Ovate
+* #### Pod ovate
 
   This shape is widest near the base and egg-shaped.
   
-* #### Obovate
+* #### Pod obovate
 
   This shape resembles a club or an egg with its widest point near the tip at the opposite end to where the fruit is attached to the plant.
   
-* #### Triangular
+* #### Pod triangular
 
   This shape resembles a triangle.
 
-* #### Moniliform
+* #### Pod moniliform
 
   In this state the fruit is constricted between where the seeds are, which gives a beaded appearance to the fruit like a bead necklace.
   
-* #### Transversly jointed
+* #### Pod transversly jointed
 
   In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. This makes the fruit look moniliform but with lines dividing each seeded segment.
   
-* #### Constricted along one margin
+* #### Pod constricted along one margin
 
   In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. One edge of the fruit is straight sided and the other appears moniliform.
   
-* #### Other
+* #### Pod other
 
   This state is any other shaped that do not comfortably match the other provided shapes.
   
@@ -748,11 +748,11 @@ This character refers to outline shape of the fruit wall.
 
 This character refers to how flat the fruit is.
 
-* #### Flat
+* #### Pod flat
 
   In this state the fruit is flat and does not have a noticeable inner cavity volume.
   
-* #### Rounded or inflated
+* #### Pod rounded or inflated
 
   In this state there is an inner cavity where the seeds sit that has a noticeable volume. If a cut is made through the fruit at right angles to its attachment (transverse section) this cut would leave a circular or oval shape.
   
@@ -784,11 +784,11 @@ This state refers to whether there is a stalk that elevates the fruit above wher
 
 This character refers to whether the outer surface of the fruit has hairs.
 
-* #### Glabrous
+* #### Pod glabrous
 
   In this state the outer surface of the fruit is completely devoid of hairs.
 
-* #### Hairy
+* #### Pod hairy
 
   In this state the fruit has hairs on its outer surface. If the fruit is sparsely hairy or only the occasional small hair is seen on the outer surface select this state.
   
@@ -824,19 +824,19 @@ This is the length in mm from the tip of the fruit to where it is attached to a 
 
 This character refers to the shape of the seed.
 
-* #### Bean-shaped
+* #### Seed bean-shaped
 
   In this state the seed is a kidney shape.
   
-* #### Square or oblong
+* #### Seed square or oblong
 
   In this state the seed is a square shape or is up to a few times longer than wide and the sides are more or less parallel for most of their length.
   
-* #### Triangular
+* #### Seed triangular
 
   In this state the seed is shaped like a triangle.
   
-* #### Elliptic, ovate or obovate
+* #### Seed elliptic, ovate or obovate
 
   In this state the seed is shaped like an oval or an egg.
   
@@ -844,11 +844,11 @@ This character refers to the shape of the seed.
 
 This character refers to whether there is a fleshy protrusion or covering (aril) on the seed that is typically red, cream or white. 
 
-* #### Present
+* #### Aril present
 
   In this state there is a fleshy protrusion or covering (aril) on the seed that is typically red, cream or white.
   
-* #### Absent or minute
+* #### Aril absent or minute
 
   In this state there is no clearly visible fleshy protrusion or covering (aril) on the seed that is typically red, cream or white.
   

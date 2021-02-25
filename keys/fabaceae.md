@@ -564,7 +564,7 @@ This character refers to whether there are hairs on the sepals. The sepals can b
 
   In this state the sepals have some hairs. If the calyx is sparsely hairy or only occasional small hairs are seen, select this state.
 
-### Calyx tube rlative length
+### Calyx tube relative length
 
 This character refers to the length of the fused part of the sepal whorl (the calyx tube) compared to the length of the five parts (lobes) that arise from this tube.
 
@@ -580,144 +580,278 @@ This character refers to the length of the fused part of the sepal whorl (the ca
 
   In this state the fused part of the sepal whorl (the calyx tube) is longer than at least some of the five parts (lobes) that arise from this tube.
   
-Calyx length mm long
+### Calyx length mm long
+
 This is the length in mm of the sepals from the base of the calyx tube where it attaches to the pedicel to tips of the longest lobe.
-Calyx lobe apex shape
+
+### Calyx lobe apex shape
+
 This character refers to how sharp the tip of each of the five lobes are.
-Acute or acuminate
-In this state the tip comes to a point that creates an interior angle less than 90 degrees. For species with this state but also some lobes that do not fall into this state, either state may be correctly selected.
-Rounded, truncate or obtuse
-In this state the tip comes to a point that creates an interior angle greater than 90 degrees or the end of the lobe is curved and does not come to a defined point or the end of the lobe is a straight edge.
-Bracteole presence
+
+* #### Acute or acuminate
+
+  In this state the tip comes to a point that creates an interior angle less than 90 degrees. For species with this state but also some lobes that do not fall into this state, either state may be correctly selected.
+  
+* #### Rounded, truncate or obtuse
+
+  In this state the tip comes to a point that creates an interior angle greater than 90 degrees or the end of the lobe is curved and does not come to a defined point or the end of the lobe is a straight edge.
+  
+### Bracteole presence
+
 This character refers to the presence and persistence of two small brown or green structures (bracteoles) below or on the calyx but above the bracts.
-Present and persistent
-In this state two small brown or green structures (bracteoles) are present below or on the calyx but above the bracts and persist throughout the lifespan of the flower.
-Present but caducous
-In this state two small brown or green structures (bracteoles) are present below or on the calyx but above the bracts but fall off during the development of the flower.
-Entirely absent
-In this state two small brown or green structures (bracteoles) are never present below or on the calyx but above the bracts. Distinguishing between bracteoles being entirely absent or caduceus requires comparison of flowers that are in different times of development (e.g. in bud when caducous bracts may still be present and when flowers are open and full size when the may have fallen off). 
-Bracteole position
+
+* #### Present and persistent
+
+  In this state two small brown or green structures (bracteoles) are present below or on the calyx but above the bracts and persist throughout the lifespan of the flower.
+  
+* #### Present but caducous
+
+  In this state two small brown or green structures (bracteoles) are present below or on the calyx but above the bracts but fall off during the development of the flower.
+  
+* #### Entirely absent
+
+  In this state two small brown or green structures (bracteoles) are never present below or on the calyx but above the bracts. Distinguishing between bracteoles being entirely absent or caducous requires comparison of flowers that are in different times of development (e.g. in bud when caducous bracts may still be present and when flowers are open and full size when the may have fallen off). 
+  
+### Bracteole position
+
 This character refers to the position of where two small brown or green structures (bracteoles) are attached.
-On the calyx or receptacle
-In this state the bracteoles are attached to the sepals above their base.
-On the pedicel
-In this state the bracteoles are attached to the stalk of the flower.
-At the junction of the receptacle and pedicel
-In this state the bracteoles are attached where the stalk of the flower joins to the flower.
-Standard petal reduction
+
+* #### On the calyx or receptacle
+
+  In this state the bracteoles are attached to the sepals above their base.
+  
+* #### On the pedicel
+
+  In this state the bracteoles are attached to the stalk of the flower.
+  
+* #### At the junction of the receptacle and pedicel
+
+  In this state the bracteoles are attached where the stalk of the flower joins to the flower.
+  
+### Standard petal reduction
+
 This character refers to the length of the petal that resembles the backboard of a basketball ring (standard) relative to the other petals that often protrude forwards.
-Standard petal less than 2/3 the length of the keel petal
-In this state the petal that resembles the backboard of a basketball ring is less than 2/3 the length of the outermost two petals that protrude forwards.
-Standard petal equal to or longer than the keel petal
-In this state the petal that resembles the backboard of a basketball ring is less than 2/3 the length of the outermost two petals that protrude forwards.
-Standard petal main colour (front of petal)
+
+* #### Standard petal less than 2/3 the length of the keel petal
+
+  In this state the petal that resembles the backboard of a basketball ring is less than 2/3 the length of the outermost two petals that protrude forwards.
+
+* #### Standard petal equal to or longer than the keel petal
+
+  In this state the petal that resembles the backboard of a basketball ring is a similar length or longer than the outermost two petals that protrude forwards.
+  
+### Standard petal main colour (front of petal)
+
 This character refers to the predominant colour on the petal that resembles the backboard of a basketball ring (standard) on the side facing forward toward the other petals.
-Standard petal length (incl. claw): mm long
-This character refers to the length in mm of the petal that resembles the backboard of a basketball ring (standard) including both the larger expanded and visible part and the narrower part at its base.
-Standard petal length relative to breadth 
+
+### Standard petal length (inc. claw): mm long
+
+This character refers to the length in mm of the petal that resembles the backboard of a basketball ring (standard) including both the larger expanded and visible part, and the narrower part at its base.
+
+### Standard petal length relative to breadth 
+
 This character refers to the length of the petal that resembles the backboard of a basketball ring (standard) including both the larger expanded and visible part and the narrower part at its base, compared to its width at its widest point.
-Petal longer than broad
-Petal equally as long as broad
-Petal broader than long
-Wing and keel petal relative lengths
-This character refers to the length of the two outermost petals that protrude forward (wings) compared to the two innermost petals that protrude forwards, which are fused along their base (keel) and resemble the keel of a boat. 
-Wings longer than keel
-In this state the wings will hide the keel when the flower is viewed from the side because the wings are longer than the keel.
-Wings equal to keel
-In this state the wings will hide the keel when the flower is viewed from the side because the wings are longer than the keel.
-Wings shorter than keel
-In this state the keel will be visible when the flower is viewed from the side because the wings are shorter than the keel.
-Stamen fusion
+
+### Wing and keel petal relative lengths
+
+This character refers to the length of the two outermost petals that protrude forward (wings) compared to the two innermost petals that protrude forwards, which are fused along their base (keel) and resemble the keel of a boat.
+
+* #### Wings longer than keel
+
+  In this state the wings will hide the keel when the flower is viewed from the side because the wings are longer than the keel.
+
+* #### Wings equal to keel
+
+  In this state the wings will hide the keel when the flower is viewed from the side because the wings are longer than the keel.
+
+* #### Wings shorter than keel
+
+  In this state the keel will be visible when the flower is viewed from the side because the wings are shorter than the keel.
+  
+### Stamen fusion
+
 This character refers to whether the filaments are joined and if so how. When assessing this character it will be necessary to pull down the keel to expose the stamens that typically lie within. When doing this be careful to only grasp the keel and not some of the filaments inside which are delicate and easily broken. This is particularly important for species with the 9 stamens fused with 1 free because the 1 free stamen is easily removed giving the impression that all stamens are fused.
-Stamens all free or lightly cohering
-In this state the filaments can be easily parted when prodded rather than staying together as a fused tube at their bases. 
-Stamens fused into a closed tube
-In this state all the filaments are fused together forming a tube and are free only towards their ends near the anthers.
-Stamens fused into a tube split along the one side
-In this state all of the filaments are fused together forming a tube that is parted to the base along one side. The filaments are free towards their ends near the anthers.
-9 stamens fused in a tube, with 1 stamen free
-In this state nine of the filaments are fused together forming a tube that is parted to the base along one side and one filament remains free in the part of the tube. All filaments are free towards their ends near the anthers. 
-More than 10 stamens fused at base
-In this state there are more than 10 stamens that are only fused close to the base. Among Victorian species, this state is present only in Paraserianthes lophantha.   
-Pods and seed
+
+* #### Stamens all free or lightly cohering
+
+  In this state the filaments can be easily parted when prodded rather than staying together as a fused tube at their bases. 
+
+* #### Stamens fused into a closed tube
+
+  In this state all the filaments are fused together forming a tube and are free only towards their ends near the anthers.
+
+* #### Stamens fused into a tube split along the one side
+
+  In this state all of the filaments are fused together forming a tube that is parted to the base along one side. The filaments are free towards their ends near the anthers.
+
+* #### 9 stamens fused in a tube, with 1 stamen free
+
+  In this state nine of the filaments are fused together forming a tube that is parted to the base along one side and one filament remains free in the part of the tube. All filaments are free towards their ends near the anthers. 
+  
+* #### More than 10 stamens fused at base
+ 
+  In this state there are more than 10 stamens that are only fused close to the base. Among Victorian species, this state is present only in *Paraserianthes lophantha*.
+  
+## Pod and seed
+
 A set of 10 characters associated with the fruit and seeds.
-Pod shape
+
+### Pod shape
+
 This character refers to outline shape of the fruit wall.
-Linear
-This shape is much longer than wide with sides that are more or less parallel or curved and equidistant for most of their length.
-Oblong
-This shape has a similar width to length or is up to a few times longer than wide and the sides are more or less parallel for most of their length.
-Elliptic
-This shape is an ellipse or oval.
-Circular
-This shape resembles a circle.
-Ovate
-This shape is widest near the base and egg-shaped.
-Obovate
-This shape resembles a club or an egg with its widest point near the tip at the opposite end to where the fruit is attached to the plant.  
-Triangular
-This shape resembles a triangle.
-Moniliform
-In this state the fruit is constricted between where the seeds are, which gives a beaded appearance to the fruit like a bead necklace.
-Transversely jointed
-In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. This makes the fruit look moniliform but with lines dividing each seeded segment.
-Constricted along one margin
-In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. One edge of the fruit is straight sided and the other appears moniliform.
-Other
-This state is any other shaped that do not comfortably match the other provided shapes. 
-Pod transverse section
+
+* #### Linear
+
+  This shape is much longer than wide with sides that are more or less parallel or curved and equidistant for most of their length.
+
+* #### Oblong
+
+  This shape has a similar width to length or is up to a few times longer than wide and the sides are more or less parallel for most of their length.
+  
+* #### Elliptic
+
+  This shape is an ellipse or oval.
+
+* #### Circular
+
+  This shape resembles a circle.
+  
+* #### Ovate
+
+  This shape is widest near the base and egg-shaped.
+  
+* #### Obovate
+
+  This shape resembles a club or an egg with its widest point near the tip at the opposite end to where the fruit is attached to the plant.
+  
+* #### Triangular
+
+  This shape resembles a triangle.
+
+* #### Moniliform
+
+  In this state the fruit is constricted between where the seeds are, which gives a beaded appearance to the fruit like a bead necklace.
+  
+* #### Transversly jointed
+
+  In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. This makes the fruit look moniliform but with lines dividing each seeded segment.
+  
+* #### Constricted along one margin
+
+  In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. One edge of the fruit is straight sided and the other appears moniliform.
+  
+* #### Other
+
+  This state is any other shaped that do not comfortably match the other provided shapes.
+  
+### Pod transverse section
+
 This character refers to how flat the fruit is.
-Flat
-In this state the fruit is flat and does not have a noticeable inner cavity volume.
-Rounded or inflated
-In this state there is an inner cavity where the seeds sit that has a noticeable volume. If a cut is made through the fruit at right angles to its attachment (transverse section) this cut would leave a circular or oval shape.  
-Pod bilocular
+
+* #### Flat
+
+  In this state the fruit is flat and does not have a noticeable inner cavity volume.
+  
+* #### Rounded or inflated
+
+  In this state there is an inner cavity where the seeds sit that has a noticeable volume. If a cut is made through the fruit at right angles to its attachment (transverse section) this cut would leave a circular or oval shape.
+  
+### Pod bilocular
+
 This character refers to how many cavities exist within the fruit.
-Pod bilocular
-In this state there are two cavities separated by a wall inside the fruit. If a cut is made through the fruit at right angles to its attachment (transverse section) two compartments would be visible for this state. 
-Pod not bilocular
-In this state there is only a single cavity inside the fruit. If a cut is made through the fruit at right angles to its attachment (transverse section) one compartments would be visible for this state.
-Pod stipitate
+
+* #### Pod bilocular
+
+  In this state there are two cavities separated by a wall inside the fruit. If a cut is made through the fruit at right angles to its attachment (transverse section) two compartments would be visible for this state.
+  
+* #### Pod not bilocular
+
+  In this state there is only a single cavity inside the fruit. If a cut is made through the fruit at right angles to its attachment (transverse section) one compartments would be visible for this state.
+  
+### Pod stipitate
+
 This state refers to whether there is a stalk that elevates the fruit above where the sepals are attached.
-Stipitate
-In this state there is a stalk that elevates the fruit above where the sepals are attached. 
-Sessile
-In this state the base of the fruit sits where the sepals are attached.
-Pod hairiness
+
+* #### Stipitate
+
+  In this state there is a stalk that elevates the fruit above where the sepals are attached.
+  
+* #### Sessile
+
+  In this state the base of the fruit sits where the sepals are attached.
+  
+### Pod hairiness
+
 This character refers to whether the outer surface of the fruit has hairs.
-Glabrous
-In this state the outer surface of the fruit is completely devoid of hairs.
-Hairy
-In this state the fruit has hairs on its outer surface. If the fruit is sparsely hairy or only the occasional small hair is seen on the outer surface select this state.
-Pod dehiscence
+
+* #### Glabrous
+
+  In this state the outer surface of the fruit is completely devoid of hairs.
+
+* #### Hairy
+
+  In this state the fruit has hairs on its outer surface. If the fruit is sparsely hairy or only the occasional small hair is seen on the outer surface select this state.
+  
+### Pod dehiscence
+
 This character refers to whether the fruit opens to release the seeds and if so how this happens.
-Dehiscent completely to upper third
-In this state both lines on either side of the fruit split open from the tip to near the base of the fruit to release the seeds. In this state open fruit appear like a beak of a bird that is wide open.
-Dehiscent only in upper third
-In this state both lines on either side of the fruit split open from the tip to a third of the way towards the base of the fruit to release the seeds. In this state open fruit appear like a beak of a bird that is partially open.
-Dehiscent along only one suture
-In this state only one of the lines of the fruit splits open to release the seeds. In this state open fruit have a split along one side like a boat. 
-Indehiscent
-In this state the fruit never split open in a regular way to release the seeds. The seeds germinate when the wall of the fruit has broken down. Old fruit has a similar appearance to young unripe fruit.
-Splitting into segments
-In this state the fruit splits into segments at points between where the seeds are held rather than longitudinally along a line of dehiscence.
-Pod length: mm long
+
+* #### Dehiscent completely to upper third
+
+  In this state both lines on either side of the fruit split open from the tip to near the base of the fruit to release the seeds. In this state open fruit appear like a beak of a bird that is wide open.
+  
+* #### Dehiscent only in upper third
+
+  In this state both lines on either side of the fruit split open from the tip to a third of the way towards the base of the fruit to release the seeds. In this state open fruit appear like a beak of a bird that is partially open.
+  
+* #### Dehiscent along only one suture
+
+  In this state only one of the lines of the fruit splits open to release the seeds. In this state open fruit have a split along one side like a boat.
+  
+* #### Indehiscent
+
+  In this state the fruit never split open in a regular way to release the seeds. The seeds germinate when the wall of the fruit has broken down. Old fruit has a similar appearance to young unripe fruit.
+  
+* #### Splitting into segments
+
+  In this state the fruit splits into segments at points between where the seeds are held rather than longitudinally along a line of dehiscence.
+  
+### Pod length: mm long
+
 This is the length in mm from the tip of the fruit to where it is attached to a stalk or where the sepals are.
-Seed shape
+
+### Seed shape
+
 This character refers to the shape of the seed.
-Bean-shaped
-In this state the seed is a kidney shape.
-Square or oblong
-In this state the seed is a square shape or is up to a few times longer than wide and the sides are more or less parallel for most of their length.
-Triangular
-In this state the seed is shaped like a triangle.
-Elliptic, ovate or obovate
-In this state the seed is shaped like an oval or an egg.
-Aril presence
+
+* #### Bean-shaped
+
+  In this state the seed is a kidney shape.
+  
+* #### Square or oblong
+
+  In this state the seed is a square shape or is up to a few times longer than wide and the sides are more or less parallel for most of their length.
+  
+* #### Triangular
+
+  In this state the seed is shaped like a triangle.
+  
+* #### Elliptic, ovate or obovate
+
+  In this state the seed is shaped like an oval or an egg.
+  
+### Aril presence
+
 This character refers to whether there is a fleshy protrusion or covering (aril) on the seed that is typically red, cream or white. 
-Present
-In this state there is a fleshy protrusion or covering (aril) on the seed that is typically red, cream or white.
-Absent or minute
-In this state there is no clearly visible fleshy protrusion or covering (aril) on the seed that is typically red, cream or white.
-Number of seeds per pod
+
+* #### Present
+
+  In this state there is a fleshy protrusion or covering (aril) on the seed that is typically red, cream or white.
+  
+* #### Absent or minute
+
+  In this state there is no clearly visible fleshy protrusion or covering (aril) on the seed that is typically red, cream or white.
+  
+### Number of seeds per pod
+
 This character is the total number of seeds within a fruit. This includes aborted or poorly formed seeds.

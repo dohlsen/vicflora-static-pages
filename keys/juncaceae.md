@@ -64,13 +64,13 @@ This character refers to the degree to which an individual plant can spread and 
 
 A set of two characters that refer to the main stem that bears the inflorescence (flower mass) and any leaves.
 
-### Height cm
+### Height
 
-The height of the culm measured in centimeters from the ground level to where the inflorescence emerges.
+The height of the culm measured in centimetres from the ground level to where the inflorescence emerges.
 
-### Diameter mm
+### Diameter
 
-The diameter of the culm measured in millimeters halfway along the length of the culm. 
+The diameter of the culm measured in millimetres halfway along the length of the culm. 
 
 ## Leaf
 
@@ -88,9 +88,9 @@ This character refers to whether the leaf has a photosynthetic blade that notice
  
  In this state the leaf comprises a sheath that wraps around the culm with a small point (mucro) at its apex. 
  
-### Width mm
+### Width
 
-The width in mm of the leaf at its widest point. This character only applies to species with a distinct leaf blade that extends out from the basal sheath.
+The width in millimetres of the leaf at its widest point. This character only applies to species with a distinct leaf blade that extends out from the basal sheath.
 
 ### Blade cross-section
 
@@ -108,9 +108,9 @@ This character refers to whether the leaf is flattened or whether cutting across
 
 A set of three characters that refer to the collection of flowers (inflorescence) and the leaf-like structure (bract) at the base of the inflorescence. The inflorescence is produced at the top of the culm. The flowers are green, sometimes with brown or red tints, and are not colourful and showy as the stereotypical image of a flower portrays.
 
-### Inflorescence length cm
+### Inflorescence length
 
-The length of the inflorescence in cm from the primary bract (which can be a continuation of the culm) to the highest flower.
+The length of the inflorescence in centimetres from the primary bract (which can be a continuation of the culm) to the highest flower.
 
 ### Primary bract continuation of culm
 
@@ -124,9 +124,9 @@ This character refers to whether the bract that is at the base of the infloresce
 
   In this state the bract that is at the base of the inflorescence appears separate from the culm and typically diverging from it at an angle. 
   
-### Primary bract length cm
+### Primary bract length
 
-The length in cm of the bract that is at the base of the inflorescence from its base to the tip.
+The length in centimetres of the bract that is at the base of the inflorescence from its base to the tip.
 
 ## Flower
 
@@ -144,17 +144,17 @@ This character refers to whether there are two clear or white triangular structu
  
   In this state there is an absence of a pair of clear or white triangular structures immediately below the six tepals.
 
-### Tepal length mm
+### Tepal length
 
-The length in mm of the outer series of green and triangular structures equivalent to sepals and petals from their bases to the tips. This is most precisely measured after detachment and flattening.
+The length in millimetres of the outer series of green and triangular structures equivalent to sepals and petals from their bases to the tips. This is most precisely measured after detachment and flattening.
 
 ### Stamen number
 
 This character refers to how many stamens are present in each flower. Young flowers are best to use for this character as stamens may detach as flowers age.
 
-### Anther length mm
+### Anther length
 
-The length in mm of the structure that produces the pollen at the end of the stamen. These are typically elongated oblong structures at the end of a narrow filament. In species with separate male and female flowers, use the male flowers for this character. 
+The length in millimetres of the structure that produces the pollen at the end of the stamen. These are typically elongated oblong structures at the end of a narrow filament. In species with separate male and female flowers, use the male flowers for this character. 
 
 ### Sexuality
 
@@ -172,9 +172,9 @@ This character refers to whether both fertile male and female structures occur i
 
 A set of two characters that refers to the structure that bears the seeds. This is a green or brown spherical or ovoid capsule that is surrounded by the persistent tepals at the base and splits along the sides when mature to release the seeds.
 
-### Capsule length mm
+### Capsule length
 
-The length in mm along the central axis of a ripe but unopened capsule.
+The length in millimetres along the central axis of a ripe but unopened capsule.
 
 ### Seeds per capsule
 

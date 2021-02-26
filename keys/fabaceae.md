@@ -716,7 +716,7 @@ This character refers to outline shape of the fruit wall.
 
   In this state the fruit is constricted between where the seeds are, which gives a beaded appearance to the fruit like a bead necklace.
   
-* #### Pod transversly jointed
+* #### Pod transversely jointed
 
   In this state the fruit appears segmented with each seed belonging to what appears to be a separate segment joined to the adjacent segments. This makes the fruit look moniliform but with lines dividing each seeded segment.
   

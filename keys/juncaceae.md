@@ -40,13 +40,13 @@ A set of two characters that refer to the overall plants and how it grows.
 
 This character refers to how long the individual plant lives for and includes two states.
 
-* #### Perennial
-
-  In this state plants live for more than one year. 
-
 * #### Annual
 
   In this state plants live for only one year.
+
+* #### Perennial
+
+  In this state plants live for more than one year. 
   
 ### Growth form
 

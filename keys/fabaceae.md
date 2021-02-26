@@ -800,7 +800,7 @@ This character refers to whether the fruit opens to release the seeds and if so 
 
   In this state the fruit splits into segments at points between where the seeds are held rather than longitudinally along a line of dehiscence.
   
-### Pod length: mm long
+### Pod length mm long
 
 This is the length in mm from the tip of the fruit to where it is attached to a stalk or where the sepals are.
 

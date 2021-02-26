@@ -136,11 +136,11 @@ A set of five characters that refers to the part of the plant that bears the rep
 
 This character refers to whether there are two clear or white triangular structures immediately below the six tepals (usually with green, triangular and similar petals and sepals).
 
-* #### Present
+* #### Basal bracts present
  
   In this state there are two clear or white triangular structures immediately below the six tepals.
 
-* #### Absent
+* #### Basal bracts absent
  
   In this state there is an absence of a pair of clear or white triangular structures immediately below the six tepals.
 

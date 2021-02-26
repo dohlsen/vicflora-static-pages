@@ -628,7 +628,7 @@ This character refers to the length of the petal that resembles the backboard of
 
 This character refers to the predominant colour on the petal that resembles the backboard of a basketball ring (standard) on the side facing forward toward the other petals.
 
-### Standard petal length (inc. claw): mm long
+### Standard petal length (including claw) mm long
 
 This character refers to the length in mm of the petal that resembles the backboard of a basketball ring (standard) including both the larger expanded and visible part, and the narrower part at its base.
 

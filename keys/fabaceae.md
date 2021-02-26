@@ -744,11 +744,11 @@ This character refers to how flat the fruit is.
 
 This character refers to how many cavities exist within the fruit.
 
-* #### Pod bilocular
+* #### Bilocular
 
   In this state there are two cavities separated by a wall inside the fruit. If a cut is made through the fruit at right angles to its attachment (transverse section) two compartments would be visible for this state.
   
-* #### Pod not bilocular
+* #### Not bilocular
 
   In this state there is only a single cavity inside the fruit. If a cut is made through the fruit at right angles to its attachment (transverse section) one compartments would be visible for this state.
   

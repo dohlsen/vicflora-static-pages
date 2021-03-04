@@ -89,35 +89,35 @@ The type of environment in which the plant is growing. This character has three 
 
   Plants that float in or on the water’s surface but are not attached to a substrate. Roots are either apparently lacking or left dangling in water.
   
-## Nutrient uptake
+### Nutrient uptake
 
 The manner in which the plant obtains nutrients.
 
-### Nutrient source
+#### Nutrient source
 
 The means in which the plant obtains nutrients. Plants are here divided into two groups, those that produce their own nutrients (via photosynthesis) and those that derive nutrients from parasitising other sources (consumers).
 
-* #### Producer
+* ##### Producer
 
   Plants that produce their own nutrients (via photosynthesis). These are typically green plants with leaves.
 
-* #### Consumer
+* ##### Consumer
 
   Plants that derive nutrient from other sources, either through parasitising other plants or other lifeforms (see Parasitic plants below). These plants may also have the capacity to photosynthesize but supplement this through these other sources. Plants are often not green and, in many cases, produce very reduced or no leaves.
 
-### Parasitic plants
+#### Parasitic plants
 
 The method employed by a parasitic plant to obtain nutrition. This character has three states.
 
-* #### Stem parasite 
+* ##### Stem parasite 
 
   Plants that are attached to and draw nutrient from the stems or other aerial parts of another plant. Such plants will typically grow over the top of the host plant.     
 
-* #### Root parasite
+* ##### Root parasite
 
   Plants that are attached to and draw nutrients from the roots of other plants. Such plants grow in close proximity to the host but are usually not joined to any of its above-ground parts. 
 
-* #### Carnivorous plant
+* ##### Carnivorous plant
 
   Plants obtain nutrients by trapping and consuming living animals or microbes. These tend to occur in nutrient poor environments (e.g. boggy sites) and use this method to supplement nutrient derived from photosynthesis (rather than replacing it altogether). As such these are usually green plants, but usually have modified leaves that exude sticky substances or employ other methods to ‘trap’ prey.  
 
@@ -139,7 +139,7 @@ The main root structures formed. This character has four states.
 
   A storage structure usually held underground or near the surface formed by the stem, from the top of which new above-ground growth is derived (from buds). These are often swollen and spherical or ovoid.   
   
-* #### Tuber/tuberous root
+* #### Tuber
 
   A swollen below ground storage structure formed by a stem or root which either does not produce buds or produces buds from various points throughout the structure (e.g. a potato). These are often cylindrical or irregularly shaped.  
   
@@ -149,7 +149,7 @@ The main root structures formed. This character has four states.
 
 Hair and other coverings occurring on stems and leaves. While all parts of a plant may possess indumentum, this character is here restricted to vegetative parts (stems and leaves) as these features are readily observed. This character has ten states.
 
-* #### Simple
+* #### Simple hairs
 
   Hairs that are unbranched or have glands or any other feature. These may be unicellular or multicellular, straight or curved, held erect or against the surface.
 
@@ -165,11 +165,11 @@ Hair and other coverings occurring on stems and leaves. While all parts of a pla
 
   Hairs or scales with a central stalk (sometimes this is very short) which is then branched into two arms or attached to the centre a flattened shield-like structure (peltate). When branches are long and flat, these may appear like hairs that are not attached to a surface. Likewise, peltate hairs may appear like scales sitting on top of a surface. These may sometimes be very dense and obscure the surface below. Hairs that are branched with multiple arms (>2) are classified as branched.          
 
-* #### Branched 
+* #### Branched hairs
 
   Hairs that have several branches or arms. These branches may all rise from a central point and spread outwards like a star (stellate) or involve multiple branches at various points along a main stem, a bit like a tree (dendritic). These may sometimes be very dense and obscure the surface below. 
 
-* #### Woolly/cottony/silky
+* #### Woolly/cottony/silky hairs
 
   Surfaces with a dense covering of simple, often long, thick, wavy or curved hairs that largely obscure the surface below and give a scruffy, cottony, silky, cobwebbed or woolly appearance. Other character states forked/centifixed/peltate and branched may also obscure the surface but are comprised of more complex, branched hairs.
 
@@ -209,13 +209,13 @@ Hard rigid spines on a stem. Such spines are generally sharp and painful to touc
 
 Fluid inside the plant which is secreted when the stems or other organs are damaged or cut. In some species this has a very high latex content and appears ‘milky’. This character has two states.
 
-* #### Milky
-
-  Sap white and ‘milky’, often quite thick.
-  
 * #### Not milky
 
   Sap usually clear or occasionally coloured (often appearing green), but not white and milky. 
+  
+ * #### Milky
+
+  Sap white and ‘milky’, often quite thick.
   
 ## Leaf
 
@@ -223,31 +223,32 @@ Fluid inside the plant which is secreted when the stems or other organs are dama
 
 The general form of the leaf, including the presence/absence or specialised modification of leaves. This character has five states.
 
-* #### Simple
+* #### Simple leaves
 
   A leaf that is not divided into leaflets. This is the most commonly encountered leaf type, it consists of a single leaf blade, often with a stalk (petiole) or attached directly onto the stem. Simple leaves may be deeply dissected into lobes (pinnatisect) but are still regarded as simple as there is one continuous leaf blade (at least along the mid-vein). See leaf margins below to indicate dissection of the leaf blade.  
 
-* #### Compound 
+* #### Compound leaves
 
   A leaf that is divided into leaflets. These are often borne on a shared stalk (petiole) which has several small leaflets. Leaflets are often opposite or arise in groups of 3 or 5. In some species these may be divided 2 (bipinnate) or 3 (tripinnate) or more times. See leaflet number below to indicate the number of leaflets on your sample.
 
-* #### Absent
+* #### Leaves absent
 
-  Leaves not produced. Stems are usually green and photosynthetic.    
- 
-* #### Highly reduced
-
-  Leaves are reduced to scales, spines, leaf sheath or a thallus (small green structure not clearly defined into stem or leaf – e.g. *Lemna*).
+  Leaves not produced. Stems are usually green and photosynthetic. 
   
 * #### Phyllode
 
   True leaves absent but replaced by laterally flattened photosynthetic (or sometimes terete) blade apparently derived from an expanded petiole and rachis. Present in some species of Fabaceae, especially *Acacia*.  
+ 
+* #### Scales/spines/thallus/leaf sheath only
+
+  Leaves are reduced to scales, spines, leaf sheath or a thallus (small green structure not clearly defined into stem or leaf – e.g. *Lemna*).
   
 ### Leaflet number
 
 When leaves are compound and consist of more than 2 leaflets the number present can be recorded here. For pinnae that are divided more than once (i.e. bipinnate or tripinnate), count the total number of pinnules. This character has eight states.
 
 ### Leaf length
+
 The general length of the leaf. This will generally vary considerably within a family, as such, this character has five very broad states to generally indicate if the leaf is very small, small, large, very large etc. To avoid confusion around leaves vs leaflets and petioles and attenuate leaf bases, lengths may be taken of entire leaves (e.g. the leaf blade/leaflets and petiole) or just the leaflet/leaf blade.
 
 ### Leaf blade margin
@@ -298,19 +299,19 @@ How the leaves are arranged on the plant. This character has five states.
 
 Covering(s) present on the on the upper leaf surface. This character has 4 states.
 
-* #### Glabrous
+* #### Upper surface glabrous
 
   Without hairs or other coverings.
   
-* #### Glabrescent 
+* #### Upper surface glabrescent 
 
   With only very few hairs present, or becoming glabrous (without hair).
   
-* #### Viscid
+* #### Upper surface viscid
 
   Sticky surface due to the excretion of resin or oil etc. this can be evenly distributed across the surface or consist of scattered to numerous droplets (from glands). These oils may often turn black on drying. 
   
-* #### Hairy
+* #### Upper surface hairy
 
   Surface with scattered to dense hairs.
   
@@ -322,15 +323,15 @@ The colour of the upper surface of the leaf. This character has five states.
 
 Covering(s) present on the on the upper leaf surface. This character has three states.
 
-* #### Glabrous/glabrescent 
+* #### Lower surface glabrous/glabrescent 
 
   Without hair or with only very sparse scattered hair (e.g. a few hairs restricted along veins).
  
-* #### Hairy
+* #### Lower surface hairy
 
   Surface with a moderate covering of hair, but not so dense as to obscure the surface.
 
-* #### Densely tomentose 
+* #### Lower surface densely tomentose 
 
   Surface with a complete cover of dense hair, often will appear as woolly, felted or silky. In some cases the main vien(s) may be visible through the hair. 
   
@@ -398,7 +399,7 @@ The three-dimensional shape or curvature a mature leaf blade. This character has
 
   Leaf blade that is folded and V-shaped or pleated, or strongly recurved, revolute or involute and almost appearing like a hollow cylinder, or horseshoe- or m-shaped in section.  
 
-* #### Terete/triangular/quardrangular
+* #### Terete/trigonous/triquetrous/quadrangular
 
   Leaf blade that is approximately as wide as high in section and appears almost round, or 3- or 4-angled. 
 
@@ -418,11 +419,11 @@ Hard rigid spines on a leaf. Such spines are generally sharp and painful to touc
 
 Leaf base that forms a tubular sheath that encloses a length of stem below where the blade expands (e.g. in many grass species). This character has 2 states.
 
-* #### Leaf sheath absent
+* #### Sheath absent
 
   Leaf that does not sheath the stem. 
   
-* #### Leaf sheath present
+* #### Sheath present
 
   Leaf that sheathes the stem.   
   
@@ -434,11 +435,11 @@ The branching patter of the veins of a leaf. This character has three states.
 
   Leaf with a central prominent midvein with secondary (and sometimes tertiary) veins branching off from this central vein. Sometimes there may be more than one prominent vein, but these do not run parallel to one another.  
   
-* #### Parallel-veined
+* #### Parallel to mid-vein
 
   Leaf with two or more prominent veins that run parallel to each other for the length of the leaf.  
 
-* #### Indistinct
+* #### Venation indistinct
 
   Leaf without any clear venation except for a central midvein.
   
@@ -458,23 +459,23 @@ The smell produced by the leaf, often becoming pronounced when the leaf is crush
 
 Scale-like appendages at the base of the leaf stalk (petiole), usually occurring in pairs. Stipules may also be leafy or spinose. This character has four states.
 
-* #### Absent
+* #### Stipules absent
 
   Stipules not present. 
   
-* #### Scale-like– typical scale- or bract-like stipules present. 
+* #### Stipules scale-like
 
   These are typically only a few millimetres long. These may only be present on younger leaves (falling as leaves develop) or sometimes are appressed to the stem and difficult to see.
 
-* #### Leafy
+* #### Stipules leafy
 
   Stipules are green and ‘leafy’ sometimes appearing as a smaller version of the leaf they sit below. 
  
-* #### Spinose
+* #### Stipules spinose
 
   Stipules that are modified into sharp, hardened spines. These usually occur as a pair of spines at the base of the leaf.
    
-* #### Minute/indistinct
+* #### Stipules minute/indistinct
 
   Stipules that are very small and often barely visible (e.g. a hand lens is needed to see them) or are shed by the plant very early on as the leaf develops, such that they are present but seldom seen.
 
@@ -482,11 +483,11 @@ Scale-like appendages at the base of the leaf stalk (petiole), usually occurring
 
 A membranous outgrowth or ring of hairs where the leaf blade attaches to the leaf sheath. This character has two states.
 
-* #### Present 
+* #### Ligule present 
 
   Leaf with a membranous outgrowth or ring of hairs where it attaches to the stem.
 
-* #### Absent
+* #### Ligule absent
 
   Leaf lacks a membranous outgrowth or ring of hairs where it attaches to the stem.
 
@@ -496,19 +497,19 @@ A membranous outgrowth or ring of hairs where the leaf blade attaches to the lea
 
 Slender coiling structure (e.g. modified stem, leaf, leaflet, stipule) used in climbing plants to cling to an object. This character has four states.
 
-* #### Absent 
+* #### Tendrils absent 
 
   Plants do not produce tendrils.
   
-* #### Axillary/stipules
+* #### Tendrils axillary/stipules
 
   Tendrils are produced from the base of the leaf where it attaches to the stem (axil), these usually represent modified stipules. Axillary tendrils will often persist on stems after the leaf has fallen.
 
-* #### Terminal branchlets
+* #### Tendrils terminal on branchlets
 
   Tendrils are produced from the tips of branchlets or at the end of at inflorescence. 
 
-* #### Leaf
+* #### Tendrils formed on Leaves
 
   The tip of leaves or leaflets are modified into a tendril. Sometimes the petiole or rachis of some species with compound leaves can become tendril-like.  
    
@@ -548,35 +549,35 @@ The pattern in which flowers are arranged on a flowering stem. This character ha
 
 Stalk subtending each individual flower (pedicel). This character has two states.
 
-* #### Stalked
+* #### Flowers stalked
 
   Flowers are immediately subtended by a (sometimes short) stalk (pedicel).
  
-* #### Sessile
+* #### Flowers sessile
 
   Flowers are not stalked, but borne directly in the leaf axil or on the stem. In some cases 2–many flowers may be sessile at the end of a common peduncle.
  
-### Bract
+### Bracts
 
 Modified leaf associated with flowers or at the base of branches in an inflorescence. These differ in shape, size or colour from other leaves, often being small, green and herbaceous.  This character has two states.
 
-* #### Present 
+* #### Bracts present 
 
   Bract(s) (i.e. modified leaf associated with flowers or at the base of branches in an inflorescence, differing in shape, size or colour from other leaves) present.
  
-* #### Absent
+* #### Bracts absent
 
   Bract(s) (modified leaf, differing in shape, size or colour from other leaves) absent.
   
-### Bracteole
+### Bracteoles
 
 Small bract borne singly or in pairs on the flower stalk (pedicel) or sepals (calyx). This character has 2 states.
 
-* #### Present
+* #### Bracteoles present
 
   Bracteole(s) present on the flower stalk (pedicel) or sepals (calyx).
  
-* #### Absent
+* #### Bracteoles absent
 
   Bracteole(s) absent.  
   
@@ -586,11 +587,11 @@ Small bract borne singly or in pairs on the flower stalk (pedicel) or sepals (ca
 
 The prominent structure or ‘showy’ part of the flower. This character has four states. 
 
-* #### Petaloid
+* #### Flowers petaloid
 
   Flowers with distinct petals which are usually brightly coloured or white (but usually not green). 
  
-* #### Sepaloid
+* #### Flowers sepaloid
 
   Flowers that lack or have highly reduced petals and the prominent structure is the (usually herbaceous and green or brown) sepals or outer perianth whorl. 
 
@@ -598,7 +599,7 @@ The prominent structure or ‘showy’ part of the flower. This character has fo
 
   Flowers lacking petals and sepals or these parts much reduced, often with bracts becoming the prominent part of the flower in place of the perianth (e.g. grasses, paper daisies etc.). 
  
-* #### Staminate/stylar
+* #### Flowers staminate/stylar
 
   Flowers that have reduced or absent petals and sepals and the prominent/attractive structure is the stamens or styles (e.g. eucalypt flowers). 
  
@@ -670,15 +671,15 @@ The number of sepals or perianth parts in the outer whorl. These may appear are 
 
 The degree in which sepals or perianth parts in the outer whorl are fused together or free from one another. This character has three states.
 
-* #### Free
+* #### Sepals free
 
   Sepals (or outer perianth) free from one another, each individually attached to the receptacle.
 
-* #### Fused 
+* #### Sepals fused 
 
   Sepals (or outer perianth) fused to one another, includes parts that are fused only near the base to fused for the majority of their length.
  
-* #### Calyptra 
+* #### Sepals forming calyptra 
 
   Sepals (or outer perianth) entirely fused (including at the top) into a cap which covers the whole flower and falls as a single unit when the flower opens (e.g. Eucalyptus flowers).
 
@@ -694,27 +695,27 @@ The number of petals or perianth parts in the inner whorl. These may appear are 
 
 The degree in which petals or perianth parts in the inner whorl are fused together or free from one another. This character has six states.
 
-* #### Free 
+* #### Petals free or 1 
 
   Petals (or inner perianth) free from one another, each individually attached to the receptacle. Includes flowers with only 1 petal.
   
-* #### Fused at base
+* #### Petals fused at base
 
   Petals (or inner perianth) fused to one another near the base or only for a short part of their length.
  
-* #### Tubular
+* #### Petals tubular
 
   Petals (or inner perianth) fused for much of length, forming a tube or cup/urn shape, often with only short free lobes at the tips of petals.
   
-* #### 2-liped
+* #### Petals 2-liped
 
   Petals that are divided into two major parts, with an upper and lower lip each consisting of 1-few free or partially fused petals (labiate). Such petals are often fused below the lips. 
  
-* #### Calyptra 
+* #### Petals forming calyptra 
 
   Petals (or inner perianth) entirely fused (including at the top) into a cap which covers the whole flower and falls as a single unit when the flower opens (e.g. Eucalypt flowers).
 
-* #### Fan-shaped/ligule
+* #### Petals fan-shaped/ligule
 
   Petals (or inner perianth) at least partially fused and the parts displayed on one side of the flower in a fan or strap shape (e.g. fan-flowers and the ligulate florets of daisies).
 
@@ -722,19 +723,19 @@ The degree in which petals or perianth parts in the inner whorl are fused togeth
 
 The shape of the tip of the petals. This character has four states.
 
-* #### Pointed 
+* #### Petal apex pointed 
 
   Tips of petals come to an acute point.
  
-* #### Rounded/flat
+* #### Petal apex rounded/flat
 
   Tips of petals are curved, rounded or flattened (truncate)
  
-* #### Emarginate/lobed 
+* #### Petal apex emarginate/lobed 
 
   Tips of at least some petals have a shallow notch in the middle, or have multiple shallow notches/lobes along the apex of the petal.
  
-* #### Bifid/deeply lobed 
+* #### Petal apex bifid/deeply lobed 
 
   Tips of at least some petals are deeply divided into 2 or more lobes.  
 
@@ -742,19 +743,19 @@ The shape of the tip of the petals. This character has four states.
 
 Coverings or markings present on the inner surface of petals. This character has four states.
 
-* #### None
+* #### Markings absent
 
   The inner surface of petals lack coverings or markings. Veins may be slightly darker or differently coloured to the rest of the petal surface.
   
-* #### Coloured markings
+* #### Petals with coloured markings
 
   The inner surface of petals has coloured streaks, spots etc. This does not include petals with veins that are darker or differently coloured to the rest of the petal surface.
  
-* #### Hairs
+* #### Petals with hairs
 
   The inner surface of petals have hairs, often in small tufts or at the throat of a tubular flower. 
  
-* #### Scales/lumps
+* #### Petals with scales/lumps
 
   The inner surface of petals have raised lumps or scales that are the same or a different colour to the rest of the petal surface. 
 
@@ -762,23 +763,23 @@ Coverings or markings present on the inner surface of petals. This character has
 
 Types (if any) of ornamentation along the margins of petals. This character has five states.
 
-* #### Entire
+* #### Petal margins entire
 
   Petal margins lack any ornamentation or lobing. 
   
-* #### Winged 
+* #### Petal margins winged 
 
   Petal margins have a thin flange of tissue (often similar in colour and only slightly thinner than the petal lamina) extending beyond the central petal lamina. This character state does not refer to the ‘wing’ petals of pea flowers. 
  
-* #### Lobed/toothed
+* #### Petal margins lobed/toothed
 
   Margins of petals that are lobed or toothed.
 
-* #### Ciliate
+* #### Petal margins ciliate
 
   Margins of petals with numerous fine, often short hairs.
  
-* #### Fringed 
+* #### Petal margins fringed 
 
   Margins of petals with a fringe of long often colourful hair or the margins somewhat lacinate and tassel-like. 
  
@@ -798,11 +799,11 @@ The length of the petals (inner perianth whorls) relative to the sepals (outer p
 
 Large scales, long filaments or petal-like appendages attached to the petals, often attached at the junction of the floral tube and petal lobes. These sometimes are united to form a ring or ‘crown’ (corona) on the top of the flower (e.g. Daffodils). This character has two states.
 
-* #### Present
+* #### Corona present
 
   Petals with large scales, long filaments or petal-like appendages, often present at the junction of the floral tube and petal lobes.
 
-* #### Absent
+* #### Corona absent
 
   Petals without large scales or petal-like appendages, often present at the junction of the floral tube and petal lobes.
   
@@ -818,23 +819,23 @@ The number of fertile stamens present on a flower. This character has eleven sta
 
 The way stamens are attached to the flower, they may individually attach to the receptacle (free) and be united to other stamens or other floral organs (or both). This character has five states.
 
-* #### Free 
+* #### Stamens free 
 
   Flowers with stamens not united together or to any other floral organs (e.g. petals). 
 
-* #### Fused together
+* #### Stamens fused together
 
   Flowers with stamens fused together, often only the filaments are fused for part of their length, but the filaments may be entirely fused together to form a tube. Alternatively the anthers may be fused together and the filaments free. 
 
-* #### Fused to perianth
+* #### Stamens fused to perianth
 
   Flowers with stamens fused to the petals or sepals (perianth). This may range from base of the stamen filament being fused to near the base of the perianth (and almost appearing free), to completely fused to the perianth with the anthers apparently borne directly on the perianth. 
  
-* #### Fused together and to perianth 
+* #### Stamens fused together and to perianth 
 
   Flowers with stamens both fused together and then fused to the perianth. This may involve the staminal filaments forming a tube and the stamen tube attaching to petals or the anthers forming a tube and the free filaments attached to the perianth.
 
-* #### Fused to carpel 
+* #### Stamens fused to carpel 
 
   Flowers with the stamens (or stamen appendages) fused to the female reproductive structure (style or ovary) and often forming a column (e.g. Orchidaceae).
  
@@ -842,15 +843,15 @@ The way stamens are attached to the flower, they may individually attach to the 
 
 The arrangement of stamens relative to one another on the flower. This character has three states.
 
-* #### Regular or stamen 1
+* #### Stamens regular (or 1)
 
   Flowers with stamens evenly spaced around the flower, or flowers with a single stamen.
   
-* #### Grouped in clusters
+* #### Stamens grouped in clusters
 
   Flowers with stamens grouped or fused into small clusters or bundles which are even spread around the flower (e.g. stamens in clusters of 3 opposite each petal).  
 
-* #### Asymmetric
+* #### Stamens asymmetric
 
   Flowers with stamens borne or displayed asymmetrically e.g. all on one side of the flower. In some cases the anthers may appear spread around the ovary but the filaments all attach on one side of it e.g. some Hibbertia species.  
 
@@ -858,11 +859,11 @@ The arrangement of stamens relative to one another on the flower. This character
 
 Hairs or appendages either associated with the anther or the filament. This character has two states.
 
-* #### Hairy/appendaged
+* #### Stamens hairy/appendaged
 
   Stamens with a vestiture of hairs or appendages either associated with the anther or the filament. These are often formed at the base of the anther or junction of the filament and anther. Such appendages or hairs commonly play a role in pollen transfer or release by pollinators. 
 
-* #### Absent
+* #### Stamen vestiture absent
 
   Stamens lack obvious hairs or appendages (glabrous) or the stamens have a vestiture of minute hair that is visible only under magnification. 
 
@@ -888,15 +889,15 @@ Infertile male organs, often consisting only of a filament (with no or a highly 
 
 The position of the ovary relative to other floral parts (i.e. sepals, petals, anthers, or if present the floral tube). This character has three states.
 
-* #### Superior
+* #### Ovary superior
 
   Ovary is borne above the level of attachment of the other floral parts, or above the base of the floral tube (that is free from the ovary and bears the perianth and stamens).
 
-* #### Semi-inferior
+* #### Ovary semi-inferior
 
   Ovary is partly above and partly below the level of attachment of the other floral parts (sepals, petals, stamens).
  
-* #### Inferior
+* #### Ovary inferior
 
   Ovary is entirely or almost entirely below the level of attachment of other floral parts (sepals, petals, stamens).
  
@@ -908,7 +909,7 @@ The number of ovaries present on a flower and the degree to which carpels are fu
 
   Flowers with two or more (sometimes numerous) free ovaries.
 
-* #### Ovary partially fused 
+* #### Ovary and carpels partially fused 
   
   Flowers with an ovary with two or more partially fused carpels, such that it appears that there is more than one ovary (when only fused near the base) or that the ovary is lobed. Each ovary lobe may each have a terminal style, or there may be a single style rising from between the lobes.  
  
@@ -924,7 +925,7 @@ The number of female reproductive units (carpels). This is usually evident by th
 
 The shape and specialised structures formed by the style. This character has five states.
 
-* #### Simple/sessile
+* #### Style simple/sessile
 
   Simple, unbranched style that consists of a stalk, or the style is much reduced or apparently lacking and the stigma is sessile on the ovary.
  
@@ -932,15 +933,15 @@ The shape and specialised structures formed by the style. This character has fiv
 
   At least part of the style has been modified into a swollen, cup or saucer-shaped structure. This structure is generally used to hold and display pollen from the flower prior to the female structures becoming receptive (which occurs once the pollen has had a chance to disperse). Such structures are sometimes quite hairy. 
  
-* #### Branched
+* #### Style branched
 
   Style which branches into 2 or more arms. This may occur anywhere along the length of the style, from towards the base of the style, giving the appearance of several styles (see style number per ovary below for multiple free styles), or near the tip with each stigma sitting on a short branch. 
  
-* #### Plumose
+* #### Style plumose
 
   Style with a feathery appearance with multiple fine side branches.
  
-* #### Petaloid
+* #### Style petaloid
 
   Style relatively broad, thickened, herbaceous and colourful, appearing like a petal. 
  
@@ -958,14 +959,6 @@ The type of structure that bears the seed(s). This character has ten states.
 
   Dry fruit usually with several chambers, opening when ripe via pores, slits, teeth, or splitting into pieces. Occasionally somewhat fleshy and similar to Single fleshy fruit (Berry/Drupe/Pome). Also easily confused with follicle or Schizocarp, sometimes capsules splitting into mericarps or follicles (that secondarily release the seed, e.g. Malvaceae). 
 
-* #### Pod/Legume/siliqua 
-
-  Dry fruit with a single chamber (or two ‘false’ chambers separated thin membranous layer of tissue), externally splitting open along two sides. Often long and skinny ‘pea pods’. Easily confused with Follicle.
-
-* #### Follicle 
-
-  Dry fruit sometimes woody (e.g. Proteaceae), with a single chamber, splitting along one side of the fruit. Often several developing from a single flower with multiple free or partially united ovaries (e.g Rutaceae and Crassulaceae). Easily confused with Pod/Legume/siliqua and capsule. 
-
 * #### Single fleshy fruit
 
   Indehiscent fleshy fruit formed by a single ovary, often firm externally with fleshy pulp inside (e.g. Berry/Drupe/Pome). Possibly confused with fleshy forms of Capsule, but differentiated from Capsule by being indehiscent.
@@ -974,6 +967,26 @@ The type of structure that bears the seed(s). This character has ten states.
 
   Indehiscent fleshy fruit composed of multiple ovaries either from a single flower or several flowers that have fused together to form a single fruiting body (e.g. blackberry). 
  
+ * #### Schizocarp
+
+  Dry fruit consisting of 2 or more segments that break apart into 1-seeded units (mericarps). Easily confused with capsule before seeds have begun to break up, and nut when mericarps are hard and nut-like.  
+ 
+ * #### Cone
+ 
+   A woody structure composed of several individual fruits (e.g. A cone with samaras in Casuarinaceae and A cone composed of follicles in *Banksia*). 
+   
+* #### Follicle 
+
+  Dry fruit sometimes woody (e.g. Proteaceae), with a single chamber, splitting along one side of the fruit. Often several developing from a single flower with multiple free or partially united ovaries (e.g Rutaceae and Crassulaceae). Easily confused with Pod/Legume/siliqua and capsule. 
+  
+* #### Siliqua/pod 
+
+  Dry fruit with a single chamber (or two ‘false’ chambers separated thin membranous layer of tissue), externally splitting open along two sides. Often long and skinny ‘pea pods’. Easily confused with Follicle.
+
+* #### Samara
+
+  Dry, one-seeded indehiscent fruit with a winged seed wall. Easily confused with winged forms of Dry or spongy pericarp/utricle, but distinguished by the wing developing from the seed coat rather than the outer pericarp.
+  
 * #### Achene/cypsela/grain
 
   Dry one-seeded indehiscent fruit. Sometimes formed by flowers with multiple free ovaries, and hence appearing in dense heads (e.g. Acaena novae-zelandiae). Similar to Nut which has a very hard outer surface, and Samara which is winged.
@@ -982,18 +995,10 @@ The type of structure that bears the seed(s). This character has ten states.
 
   Hard, dry one-seed indehiscent fruit (e.g. Acorn). Easily confused with Achene/cypsela/grain and Samara, which are similar but do not have a hard external coat, and Single fleshy fruit which often contain hard seeds ‘nuts’ within a fleshy fruit (e.g. Walnuts, Almonds etc.), strictly speaking these fruits are drupes. Likewise some mericarps and capsules can be very hard and sometimes termed ‘nuts’ (e.g. Gumnuts).
 
-* #### Samara
-
-  Dry, one-seeded indehiscent fruit with a winged seed wall. Easily confused with winged forms of Dry or spongy pericarp/utricle, but distinguished by the wing developing from the seed coat rather than the outer pericarp.
-
 * #### Dry or spongy pericarp/utricle
 
   Indehiscent, single seeded fruit concealed within a spongy, leafy or membranous outer layer. Sometimes this outer layer breaks apart or releases the seed. Easily confused with Single fleshy fruit (Berry/Drupe/Pome), but generally less fleshy. Also, the outer layer is composed of an enlarged pericarp (calyx, epicalyx or bracts) rather than the ovary tissue. May also be difficult to distinguish from nut when the outer coating is thin and closely attached to the seed coat (e.g. some species of Cyperaceae).  
 
-* #### Schizocarp/fruit breaking into single seeds
-
-  Dry fruit consisting of 2 or more segments that break apart into 1-seeded units (mericarps). Easily confused with capsule before seeds have begun to break up, and nut when mericarps are hard and nut-like.  
- 
 ### Fruit colour
 
 The colour of the fruiting body at maturity (ie. when ripe). Most fruit will initially be green, so this requires observation of mature fruit. This character has six states.
@@ -1002,11 +1007,11 @@ The colour of the fruiting body at maturity (ie. when ripe). Most fruit will ini
 
 The shape of fruit in cross section. This character has two states.
 
-* #### Round
+* #### Fruit round
 
   Includes shapes that have no clear angles, edges or ‘sides’ (e.g. oval and regularly or irregularly ellipsoid shapes). They may sometimes be somewhat flattened on the side where they attach to the fruiting stem, or have ridges or lobes.
   
-* #### Angular/flattened 
+* #### Fruit flattened/angular 
 
   Shapes that have clear angles or ‘sides’ (e.g. triangle, quadrangle, rectangle, disc-shaped).    
  
@@ -1014,11 +1019,11 @@ The shape of fruit in cross section. This character has two states.
 
 Partial division of fruits into segments or lobes. This character has two states.
 
-* #### Lobed
+* #### Fruit lobed
 
   Fruits that are laterally lobed or bulging (e.g. a fruit that is partially divided into individual portions that are either basally or centrally attached)
 
-* #### Unlobed
+* #### Fruit unlobed
 
   Fruit that are not segmented laterally. These may have terminal or basal lobes/lumps.
   
@@ -1026,23 +1031,23 @@ Partial division of fruits into segments or lobes. This character has two states
 
 Ornamentation along the margin or edges of fruit. This character has two states.
 
-* #### Winged/strongly ridged
-
-  Fruit that have a thin flange, membranous expansion or thickened ridge extending beyond the normal outline of the fruit.
-
-* #### Not winged
+* #### Fruit not winged
 
   Fruit lacking an extension beyond the normal outline of the fruit. 
+
+* #### Fruit winged/strongly ridged
+
+  Fruit that have a thin flange, membranous expansion or thickened ridge extending beyond the normal outline of the fruit.
   
 ### Fruit spines
 
 Hard rigid spines on the fruit. Such spines are generally sharp and painful to touch. This character has two states.
 
-* #### Spinose
+* #### Fruit spinose
 
   Fruit with covering of, or surrounded by stiff, hard or flexible, usually sharp spines. 
 
-* #### Lacking spines
+* #### Fruit lacking spines
 
   Fruits without spines.
   
@@ -1052,11 +1057,11 @@ Hard rigid spines on the fruit. Such spines are generally sharp and painful to t
 
 Ornamentation along the margin or edges of seed. This character has two states.
 
-* #### Winged 
+* #### Seed winged 
 
   Seed that have a thin flange, membranous expansion extending beyond the normal outline of the seed.
 
-* #### Not winged
+* #### Seed not winged
 
   Seed lacking an extension beyond the normal outline of the seed, but may have minor ridges associated with the margins and faces. 
   
@@ -1076,11 +1081,11 @@ An enlarged membranous or fleshy appendage formed where the seed attaches to the
 
 The presence of hair on seed surfaces (including non-shedding structures such as persistent mericarps). This does not include seeds with pappus – a row or rows of long hairs extending from the top of the seed, see ‘seed appendages’ below. This character has two states.
 
-* #### Present
+* #### Hairs present
 
   Seed with a covering or partial covering of hairs.
    
-* #### Absent
+* #### Hairs absent
 
   Seed lacking hair. 
   
@@ -1104,19 +1109,19 @@ Texture or ornamentation on the seed surface. This character has 3 states.
 
 The presence and placement of appendages such as awns, pappus, bristles or scales. These are structures usually associated with seed dispersal. These are distinguished from ‘seed hair’ which are usually covering or scattered across the seed surface. This character has four states. 
 
-* #### Absent 
+* #### Appendages absent 
 
   Seed lacking an appendage.
   
-* #### Terminal 
+* #### Appendiges terminal 
 
   Seed with appendages such as an awn or row of bristles/scales at the top of the seed.
 
-* #### Lateral
+* #### Appendages lateral
 
   Seed with appendages, usually an awn or awns attached to the side of the seed.
 
-* #### Basal
+* #### Appendages basal
 
   Seed with appendages, usually a ring of bristles or scales at the bottom of the seed (where the seed attaches to the fruit or fruiting receptacle). 
 

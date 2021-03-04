@@ -6,20 +6,21 @@ permalink: /keys/flowerfamilies
 
 ## Introduction
 
-The multi-access key to flowering plant families of Victoria is a starting point to identify an unknown flowering plant to family level. From the family profile page, the user can check the general family description matches their plant, look through photos of a selection of species in that family, and then use more specific keys on that page to get to genus and then species rank. This multi-access key can be used for any of the c. 4,200 native or naturalised flowering plant species in Victoria. Due to their quite distinctive morphological features that are not found in flowering plants, and the relatively small number of species, non-flowering plants (e.g. conifers and ferns) are not included in this key. 
-This key has been designed for people with limited botanical knowledge and much as reasonably possible uses simple language, includes some readily observed characters (e.g. flower colour, petal number), and avoids highly technical features (e.g. ovule placentation, anther dehiscence etc.). Furthermore, where possible, it allows for commonly misinterpreted characters to be ‘incorrectly’ scored, meaning the correct family will not be discarded due to the selection of a technically incorrect character state. By lacking some of the more highly technical characters and the allowance of character misinterpretation this key has become less powerful, and it may be difficult to get down to a single family. However, for users that find traditional dichotomous keys daunting, the benefits of having a less powerful key is viewed as more desirable than having a more powerful key that will be prone to remove the correct answer due to the users technical misunderstanding. Likewise, users who have a specimen that lacks all features required to move through a dichotomous may find this useful to narrow down possible options. It is hoped that most users will find having half a dozen or so plant families to investigate after entering a few basic characters into this key to be a good starting point for finding their plant in this vast resource.  
+The multi-access key to flowering plant families of Victoria is a starting point to identify an unknown flowering plant to family level. From the family profile page, the user can check the general family description matches their plant, look through photos of a selection of species in that family, and then use more specific keys on that page to get to genus and then species rank. This multi-access key can be used for any of the c. 4,200 native or naturalised flowering plant species in Victoria. Due to their quite distinctive morphological features that are not found in flowering plants, and the relatively small number of species, non-flowering vascular plants (e.g. conifers and ferns) are not included in this key. 
+This key has been designed for people with limited botanical knowledge and as much as reasonably possible uses simple language, includes some readily observed characters (e.g. flower colour, petal number), and avoids highly technical features (e.g. ovule placentation, anther dehiscence etc.). Furthermore, where possible, it allows for commonly misinterpreted characters to be ‘incorrectly’ scored, meaning the correct family will not be discarded due to the selection of a technically incorrect character state. By lacking some of the more highly technical characters and the allowance of character misinterpretation this key has become less powerful, and it may be difficult to get down to a single family. However, for users that find traditional dichotomous keys daunting, the benefits of having a less powerful key is viewed as more desirable than having a more powerful key that will be prone to remove the correct answer due to the users technical misunderstanding. Likewise, users who have a specimen that lacks all features required to move through a dichotomous may find this useful to narrow down possible options. It is hoped that most users will find having half a dozen or so plant families to investigate after entering a few basic characters into this key to be a good starting point for finding their plant in this vast resource.  
 This multi-access key differs from the other (dichotomous) keys provided in VicFlora by giving the user the flexibility to choose from one of the 70 characters provided rather than the user having to commit to investigate the particular features being questioned in the dichotomous keys. This has the benefit of avoiding having to answer questions relating to a feature that may not be present in the sample when being identified, and potentially being able to identify a taxon without needing to include some of the most technical features. This key includes a range of features including detailed leaf, flower and fruit characters. As such this key may prove helpful in the identification of sterile or incomplete specimens.
 To use the key the user selects a feature from the features in the top left Features Available panel and clicks on the state present in their specimen to be identified. Once selected this feature and state will show as being selected in the Features Chosen panel directly below the Features Available panel. To undo a selection, click on the box next to the state chosen in the Features Chosen panel to erase the tick in the box. Once a feature state is chosen all the taxa that do not possess the chosen feature state are discarded in the bottom right Entities Discarded panel and those that do possess the chosen are retained in the top right Entities Remaining panel. The user continues to choose further character states present in their specimen until identification is achieved. To restart the key when finished select the restart key icon represented by the two green arrows in the top left corner of the screen.
-General helpful hints
+
+
+
+
+
+
+
+## General helpful hints
+
 For the most effective use of this key the user is encouraged to read the help guides for each character and state before submitting an answer for that character and state. Help guides and photographs can be found by clicking on the page icons beside characters and states. This help will reduce the chance of misinterpretation of the character and state. Some information and definitions required for interpreting a state may be given under character so users are encouraged to read the help guide for the characters before the states. When taking measurements or assessing which state a character exists in for the taxon being identified a typical plant and plant part should be used. Typical is here interpreted as a close representation of the average plant in terms of size and stature in a population and a plant part that represents the average condition for that character (e.g. average length, the most frequently observed density of hairs etc. For some of the characters it is possible for some taxa to possess more than one character state for the character. In such cases either correct character state can be chosen.
 To help identify the specimen to be identified as quickly as possible the best option can be used. This option highlights which charaters should be used first to discard the maximum number of taxa among the remaining taxa. To use the best option select the best icon given as a blue wand at the top of the screen. For some similar taxa such as closely related species or subspecies within a species it may become time consuming to keep using the key until one taxon remains. In such instances the user can use the dichotomous keys and profiles to help to distinguish between similar species.
-
-
-
-
-
-
-
 
 ## Lifeform 
 
@@ -33,7 +34,7 @@ General growth form of the plant. This character has eight states which are not 
   
 * #### Shrub 
 
-  Perennial plant usually up to c. 5 m tall with woody stems and branches but usually lacking a single main trunk. The boundary between tree and shrub may not always clear.
+  Perennial plant usually up to c. 5 m tall with woody stems and branches but usually lacking a single main trunk. The boundary between tree and shrub may not always be clear.
   
 * #### Vine 
 
@@ -45,17 +46,15 @@ General growth form of the plant. This character has eight states which are not 
  
 * #### Palm
 
-  Perennial plant usually with a single unbranched woody stem with palm- or fan-shaped leaves that are formed in al tuft at the top of the stem (e.g. Palm trees). Stems lack bark and are formed by persistent leaf bases. Only one family, Arecaceae.
+  Perennial plant usually with a single unbranched woody stem with palm- or fan-shaped leaves that are formed in a tuft at the top of the stem (e.g. Palm trees). Stems lack bark and are formed by persistent leaf bases. Only one family, Arecaceae.
 
 * #### Subshrub
 
   Perennial or annual plant with a woody rootstock and partially woody stems but generally with herbaceous branches. Similar to but generally smaller than a shrub.
   
-  
 * #### Herb
 
   Perennial or annual plant that does not produce woody stems. These are often quite short plants that are soft in texture.
-  
  
 * #### Grass/grass-like
 
@@ -103,7 +102,7 @@ The means in which the plant obtains nutrients. Plants are here divided into two
 
 * ##### Consumer
 
-  Plants that derive nutrient from other sources, either through parasitising other plants or other lifeforms (see Parasitic plants below). These plants may also have the capacity to photosynthesize but supplement this through these other sources. Plants are often not green and, in many cases, produce very reduced or no leaves.
+  Plants that derive nutrients from other sources, either through parasitising other plants or other lifeforms (see Parasitic plants below). These plants may also have the capacity to photosynthesize but supplement this through these other sources. Plants are often not green and, in many cases, produce very reduced or no leaves.
 
 #### Parasitic plants
 
@@ -111,7 +110,7 @@ The method employed by a parasitic plant to obtain nutrition. This character has
 
 * ##### Stem parasite 
 
-  Plants that are attached to and draw nutrient from the stems or other aerial parts of another plant. Such plants will typically grow over the top of the host plant.     
+  Plants that are attached to and draw nutrients from the stems or other aerial parts of another plant. Such plants will typically grow over the top of the host plant.     
 
 * ##### Root parasite
 
@@ -133,7 +132,7 @@ The main root structures formed. This character has four states.
 
 * #### Rhizome/stolon
 
-  Plants with often long, usually lateral main roots from which new shoots emerge. These long stem-like roots may either be below ground (rhizomes) or run along the surface where they are often sheltered by surrounding vegetation of littler (stolons). 
+  Plants with often long, usually lateral main roots from which new shoots emerge. These long stem-like roots may either be below ground (rhizomes) or run along the surface where they are often sheltered by surrounding vegetation or litter (stolons). 
 
 * #### Bulb/corm
 
@@ -309,7 +308,7 @@ Covering(s) present on the on the upper leaf surface. This character has 4 state
   
 * #### Upper surface viscid
 
-  Sticky surface due to the excretion of resin or oil etc. this can be evenly distributed across the surface or consist of scattered to numerous droplets (from glands). These oils may often turn black on drying. 
+  Sticky surface due to the excretion of resin or oil etc. This can be evenly distributed across the surface or consist of scattered to numerous droplets (from glands). These oils may often turn black on drying. 
   
 * #### Upper surface hairy
 
@@ -377,11 +376,11 @@ The shape of the base of the leaf (or leaflet) blade. This character has three s
 
 * #### Wedge-shaped/obtuse/rounded 
 
-  Leaves with a blade that taper, curve downward or are rounded at the base. 
+  Leaves with blades that taper, curve downward or are rounded at the base. 
 
 * #### Truncate/subcordate 
 
-  Leaves with blade that is flat at the base, or has very shallow ear-shaped lobes extending slightly below the point of attachment of the petiole.
+  Leaves with blades that are flat at the base, or have very shallow ear-shaped lobes extending slightly below the point of attachment of the petiole.
  
 * #### Auriculate/cordate/reniform/sagittate
 
@@ -409,7 +408,7 @@ Hard rigid spines on a leaf. Such spines are generally sharp and painful to touc
 
 * #### Spines present
 
-  Leaf that bears hard ridged spines that are generally sharp and painful to touch, these often occur at the tip of the leaf. 
+  Leaf that bears hard ridged spines that are generally sharp and painful to touch. These often occur at the tip of the leaf. 
   
 * #### Spines absent 
 
@@ -429,7 +428,7 @@ Leaf base that forms a tubular sheath that encloses a length of stem below where
   
 ### Venation
 
-The branching patter of the veins of a leaf. This character has three states.
+The branching pattern of the veins of a leaf. This character has three states.
 
 * #### Net-like/pinnate
 
@@ -531,7 +530,7 @@ The pattern in which flowers are arranged on a flowering stem. This character ha
 
 * #### Spike
 
-  An unbranched inflorescence with numerous flower which are sessile on the flowering stem. These can be quite long and sometimes have very densely-packed flowers such that the stalk (axis) is hidden by the flowers (e.g. Arum lily).  
+  An unbranched inflorescence with numerous flowers which are sessile on the flowering stem. These can be quite long and sometimes have very densely-packed flowers such that the stalk (axis) is hidden by the flowers (e.g. Arum lily).  
  
 * #### Raceme/panicle/cyme 
 
@@ -637,7 +636,7 @@ Formed by the basal part of a flower giving rise to the floral parts (i.e. the r
 
 * #### Prominent 
 
-  Flowers with an enlarged, often cup-shaped or tubular base formed by the receptacle and often surrounding the ovary or incorporating the perianth and stamens. Easily confused with flowers with tubular petals, these are distinguished as the petals may incorporate the stamens but does not include the receptacle. See petal/inner whorl fusion to indicate tubular petals. 
+  Flowers with an enlarged, often cup-shaped or tubular base formed by the receptacle and often surrounding the ovary or incorporating the perianth and stamens. Easily confused with flowers with tubular petals. Tubular petals are distinguished as petals because they may incorporate the stamens but do not include the receptacle. See petal/inner whorl fusion to indicate tubular petals. 
 
 * #### Inconspicuous
 
@@ -661,11 +660,11 @@ The number of whorls of sepals and petals (perianth) present on a flower. This i
 
 ## Sepal
 
-The sepals or outer whorl of non-fertile floral parts, these are often green and herbaceous, but also includes the outer whorl of flowers where all perianth whorls are colourful. These characters also relate to flowers with a single whorl of perianth that is green sepal-like (i.e. lack colourful petals).  
+The sepals or outer whorl of non-fertile floral parts, these are often green and herbaceous, but also includes the outer whorl of flowers where all perianth whorls are colourful. These characters also relate to flowers with a single whorl of perianth that is green and sepal-like (i.e. lack colourful petals).  
 
 ### Sepal number
 
-The number of sepals or perianth parts in the outer whorl. These may appear are lobes or teeth when parts are fused. This character has twelve states.
+The number of sepals or perianth parts in the outer whorl. These may appear as lobes or teeth when the parts are fused. This character has twelve states.
 
 ### Sepal fusion
 
@@ -681,7 +680,7 @@ The degree in which sepals or perianth parts in the outer whorl are fused togeth
  
 * #### Sepals forming calyptra 
 
-  Sepals (or outer perianth) entirely fused (including at the top) into a cap which covers the whole flower and falls as a single unit when the flower opens (e.g. Eucalyptus flowers).
+  Sepals (or outer perianth) entirely fused (including at the top) into a cap which covers the whole flower and falls as a single unit when the flower opens (e.g. *Eucalyptus* flowers).
 
 ## Petal
 
@@ -709,7 +708,7 @@ The degree in which petals or perianth parts in the inner whorl are fused togeth
   
 * #### Petals 2-liped
 
-  Petals that are divided into two major parts, with an upper and lower lip each consisting of 1-few free or partially fused petals (labiate). Such petals are often fused below the lips. 
+  Petals that are divided into two major parts, with an upper and lower lip each consisting of 1 to a few free or partially fused petals (labiate). Such petals are often fused below the lips. 
  
 * #### Petals forming calyptra 
 
@@ -825,7 +824,7 @@ The way stamens are attached to the flower, they may individually attach to the 
 
 * #### Stamens fused together
 
-  Flowers with stamens fused together, often only the filaments are fused for part of their length, but the filaments may be entirely fused together to form a tube. Alternatively the anthers may be fused together and the filaments free. 
+  Flowers with stamens fused together, often only the filaments are fused for part of their length, but the filaments may be entirely fused together to form a tube. Alternatively, the anthers may be fused together and the filaments free. 
 
 * #### Stamens fused to perianth
 
@@ -853,7 +852,7 @@ The arrangement of stamens relative to one another on the flower. This character
 
 * #### Stamens asymmetric
 
-  Flowers with stamens borne or displayed asymmetrically e.g. all on one side of the flower. In some cases the anthers may appear spread around the ovary but the filaments all attach on one side of it e.g. some Hibbertia species.  
+  Flowers with stamens borne or displayed asymmetrically e.g. all on one side of the flower. In some cases the anthers may appear spread around the ovary but the filaments all attach on one side of it e.g. some *Hibbertia* species.  
 
 ### Stamen vestiture
 
@@ -957,7 +956,7 @@ The type of structure that bears the seed(s). This character has ten states.
 
 * #### Capsule
 
-  Dry fruit usually with several chambers, opening when ripe via pores, slits, teeth, or splitting into pieces. Occasionally somewhat fleshy and similar to Single fleshy fruit (Berry/Drupe/Pome). Also easily confused with follicle or Schizocarp, sometimes capsules splitting into mericarps or follicles (that secondarily release the seed, e.g. Malvaceae). 
+  Dry fruit usually with several chambers, opening when ripe via pores, slits, teeth, or splitting into pieces. Occasionally somewhat fleshy and similar to Single fleshy fruit (Berry/Drupe/Pome). Also easily confused with Follicle or Schizocarp, sometimes Capsules splitting into mericarps or Follicles (that secondarily release the seed, e.g. Malvaceae). 
 
 * #### Single fleshy fruit
 
@@ -973,7 +972,7 @@ The type of structure that bears the seed(s). This character has ten states.
  
  * #### Cone
  
-   A woody structure composed of several individual fruits (e.g. A cone with samaras in Casuarinaceae and A cone composed of follicles in *Banksia*). 
+   A woody structure composed of accessory sructures (e.g. inflorescence axis and swollen bracts or bracteoles) and several individual fruits (e.g. a Cone with Samaras in Casuarinaceae and a Cone composed of Follicles in *Banksia*). 
    
 * #### Follicle 
 
@@ -989,11 +988,11 @@ The type of structure that bears the seed(s). This character has ten states.
   
 * #### Achene/cypsela/grain
 
-  Dry one-seeded indehiscent fruit. Sometimes formed by flowers with multiple free ovaries, and hence appearing in dense heads (e.g. Acaena novae-zelandiae). Similar to Nut which has a very hard outer surface, and Samara which is winged.
+  Dry one-seeded indehiscent fruit. Sometimes formed by flowers with multiple free ovaries, and hence appearing in dense heads (e.g. *Acaena novae-zelandiae*). Similar to Nut which has a very hard outer surface, and Samara which is winged.
 
 * #### Nut
 
-  Hard, dry one-seed indehiscent fruit (e.g. Acorn). Easily confused with Achene/cypsela/grain and Samara, which are similar but do not have a hard external coat, and Single fleshy fruit which often contain hard seeds ‘nuts’ within a fleshy fruit (e.g. Walnuts, Almonds etc.), strictly speaking these fruits are drupes. Likewise some mericarps and capsules can be very hard and sometimes termed ‘nuts’ (e.g. Gumnuts).
+  Hard, dry one-seed indehiscent fruit (e.g. Acorn). Easily confused with Achene/cypsela/grain and Samara, which are similar but do not have a hard external coat, and Single fleshy fruit which often contain hard seeds ‘nuts’ within a fleshy fruit (e.g. Walnuts, Almonds etc.), but strictly speaking are drupes. Likewise some mericarps and Capsules can be very hard and sometimes incorrectly termed ‘nuts’ (e.g. Gumnuts).
 
 * #### Dry or spongy pericarp/utricle
 
